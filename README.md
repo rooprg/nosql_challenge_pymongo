@@ -30,12 +30,32 @@ Rating Values were updated from string values to integer numbers.
 
 **(4) Data Visualization Techniques:**
 
-(Detail the data visualization techniques used in the project, such as bar charts, line graphs, scatter plots, etc. Explain why these techniques were chosen and how they help in understanding the data)
+DataFrames were generated, but no plots; maps; graphs; or other visualizations were part of this exercise.
 
 
 **(5) Results and Analysis:**
 
-(Present the insights gained from the data visualization. Describe any patterns, trends, or relationships discovered in the data)
+
+(a) Find the establishments with a hygiene score of 20 - **41**
+
+![41 Establishments](Output/1_df_establishments_hygiene_equals_20.png)
+
+
+(b) Find the establishments with London as the Local Authority and has a RatingValue greater than or equal to 4 - **33**
+
+![33 London Establishments with RatingValue greater than or equal to 4](Output/2_establishments_ratingvalue_gte_4.png)
+
+
+(c) What are the top 5 establishments with a RatingValue rating value of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
+
+
+![Top 5 Establishments Near Penang Flavors with a RatingValue rating value of 5](Output/3_top_5_ratingvalue_of_5_sorted_nearest_penang_flavors.png)
+
+
+(d) How many establishments in each Local Authority area have a hygiene score of 0?
+
+
+![LA Establishments with Hygiene score of 0](Output/4_establishments_in each_LA_area_hygiene_0.png)
 
 
 **(6) Ethical Considerations:**
