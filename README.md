@@ -36,12 +36,12 @@ DataFrames were generated, but no plots; maps; graphs; or other visualizations w
 **(5) Results and Analysis:**
 
 
-(a) Find the establishments with a hygiene score of 20 - **41**
+(a) Find the establishments with a hygiene score of 20 - **41** (See example of DataFrame below)
 
 ![41 Establishments](Output/1_df_establishments_hygiene_equals_20.png)
 
 
-(b) Find the establishments with London as the Local Authority and has a RatingValue greater than or equal to 4 - **33**
+(b) Find the establishments with London as the Local Authority and has a RatingValue greater than or equal to 4 - **33** (See example of DataFrame below)
 
 ![33 London Establishments with RatingValue greater than or equal to 4](Output/2_establishments_ratingvalue_gte_4.png)
 
@@ -52,22 +52,24 @@ DataFrames were generated, but no plots; maps; graphs; or other visualizations w
 ![Top 5 Establishments Near Penang Flavors with a RatingValue rating value of 5](Output/3_top_5_ratingvalue_of_5_sorted_nearest_penang_flavors.png)
 
 
-(d) How many establishments in each Local Authority area have a hygiene score of 0?
+(d) How many establishments in each Local Authority area have a hygiene score of 0? - **55** (See example of DataFrame below)
 
 
-![LA Establishments Hygiene](4_establishments_in each_LA_area_hygiene_0.png)
+![LA Establishments with Hygiene = 0](4_establishments_in_each_LA_area_hygiene_0.png)
 
 
 **(6) Ethical Considerations:**
 
-(Discuss any ethical considerations taken into account during the project, such as data privacy, bias, or fairness)
+This dataset does not appear to contain any sensitive or restricted information. It appears to be publically available from a public health and information standpoint.
 
 
 **(7) Instructions for Interacting with the Project:**
 
-(a) Part 1: Database and Jupyter Notebook Set Up and Part 2: Update the Database - code posted as an ipynb filed titled "NoSQL_setup_roop.ipynb"
+(a) Part 1: Database and Jupyter Notebook Set Up and Part 2: Update the Database - code posted in the main folder as an ipynb filed titled "NoSQL_setup_roop.ipynb"
 
-(b) Part 3: Exploratory Analysis - code posted as an ipynb file titled "NoSQL_analysis_roop.ipynb"
+(b) Part 3: Exploratory Analysis - code posted in the main folder as an ipynb file titled "NoSQL_analysis_roop.ipynb"
+
+(c) DataFrames are stored in the Output folder as .png files
 
 
 **(8) Citations:**
