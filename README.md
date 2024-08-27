@@ -55,7 +55,7 @@ DataFrames were generated, but no plots; maps; graphs; or other visualizations w
 (d) How many establishments in each Local Authority area have a hygiene score of 0?
 
 
-![LA Establishments with Hygiene score of 0](Output/4_establishments_in each_LA_area_hygiene_0.png)
+![LA Establishments Hygiene](4_establishments_in each_LA_area_hygiene_0.png)
 
 
 **(6) Ethical Considerations:**
